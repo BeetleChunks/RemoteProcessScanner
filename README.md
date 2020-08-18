@@ -11,7 +11,7 @@ Visual Studios 2019 was used to create this project, however, other versions sho
   <img src="rps-demo.gif" width="75%">
 </p>
 
-After the enumeration process has completed a resulting CSV file is created with the results. Whether you can one or multiple remote hosts a single CSV file is created. There is a column in the CSV results that tracks which machine the process belongs to, so filtering out by host is easy. The following GIF demonstrates basic filtering.
+After the enumeration process has completed a resulting CSV file is created with the results. Whether you scan one or multiple remote hosts a single CSV file is created. There is a column in the CSV results that tracks which machine the process belongs to, so filtering out by host is easy. The following GIF demonstrates basic filtering.
 
 <p align="center">
   <img src="rps-csv.gif" width="75%">
